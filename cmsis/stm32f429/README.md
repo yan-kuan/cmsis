@@ -1,0 +1,2 @@
+# Source
+mbed-os/targets/TARGET_STM/TARGET_STM32F4/TARGET_DISCO_F429ZI/device
